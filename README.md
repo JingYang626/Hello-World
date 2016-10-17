@@ -1,2 +1,3 @@
 # Hello-World
-The learn and test git for first time
+To learn and test git for first time
+Am I doing right? 
